@@ -3,7 +3,7 @@ Contributors: Sirius Pro
 Donate link: https://siriuspro.pl
 Tags: comment, comments, shortcode, form, field, fields, show, display, post, page, posts, pages
 Requires at least: 3.0
-Tested up to: 6.3
+Tested up to: 6.7
 Stable tag: trunk
 License: GPL v3
 License URI: https://www.gnu.org/licenses/gpl.html
